@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneJam", "Assembly-CSharp.csproj", "{99F76FDA-CDC3-E53C-C058-BB16AE5ABB39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneJam", "Assembly-CSharp-Editor.csproj", "{797D23D7-EE32-D53C-1EB3-75D59ADD7B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F76FDA-CDC3-E53C-C058-BB16AE5ABB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F76FDA-CDC3-E53C-C058-BB16AE5ABB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F76FDA-CDC3-E53C-C058-BB16AE5ABB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F76FDA-CDC3-E53C-C058-BB16AE5ABB39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797D23D7-EE32-D53C-1EB3-75D59ADD7B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797D23D7-EE32-D53C-1EB3-75D59ADD7B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797D23D7-EE32-D53C-1EB3-75D59ADD7B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797D23D7-EE32-D53C-1EB3-75D59ADD7B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
